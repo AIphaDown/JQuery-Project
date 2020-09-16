@@ -1,0 +1,60 @@
+#draggableBox
+  { 
+    width: 50px;  
+    height: 50px; 
+    background-color:blue;
+  }
+
+#draggableRect
+  { 
+    width: 100px;  
+    height: 50px; 
+    background-color:orange;
+  }
+
+#draggableBox2
+  { 
+    width: 50px;  
+    height: 50px; 
+    background-color:yellow;
+  }
+
+#draggableRect2
+  { 
+    width: 50px;  
+    height: 100px; 
+    background-color:purple;
+  }
+
+#draggableTri
+  { 
+  width: 0;
+  height: 0;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-bottom: 50px solid green;
+  }
+
+#draggableCircle
+  { 
+    width: 50px;  
+    height: 50px; 
+    background-color:red;
+    border-radius: 50%;
+  }
+
+#draggableCircle2
+  { 
+    width: 50px;  
+    height: 50px; 
+    background-color:gray;
+    border-radius: 50%;
+  }
+  
+#draggableCircle3
+  { 
+    width: 50px;  
+    height: 50px; 
+    background-color:aqua;
+    border-radius: 50%;
+  }
